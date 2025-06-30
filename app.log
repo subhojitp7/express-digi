@@ -1,0 +1,14 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.853\"}","timestamp":"2025-06-30T13:13:14.340Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.471\"}","timestamp":"2025-06-30T13:13:19.310Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.233\"}","timestamp":"2025-06-30T13:13:23.354Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"0.523\"}","timestamp":"2025-06-30T13:13:28.689Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/teas/2\",\"status\":\"204\",\"responseTime\":\"1.554\"}","timestamp":"2025-06-30T13:13:39.023Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"1.801\"}","timestamp":"2025-06-30T13:13:54.207Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.775\"}","timestamp":"2025-06-30T13:13:54.884Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.705\"}","timestamp":"2025-06-30T13:13:55.497Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"200\",\"responseTime\":\"1.131\"}","timestamp":"2025-06-30T13:13:57.708Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/teas/2\",\"status\":\"204\",\"responseTime\":\"1.597\"}","timestamp":"2025-06-30T13:14:00.311Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/teas/2\",\"status\":\"404\",\"responseTime\":\"0.605\"}","timestamp":"2025-06-30T13:14:50.446Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"DELETE\",\"url\":\"/teas/2\",\"status\":\"404\",\"responseTime\":\"0.588\"}","timestamp":"2025-06-30T13:14:51.980Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/teas/2\",\"status\":\"404\",\"responseTime\":\"0.677\"}","timestamp":"2025-06-30T13:15:01.762Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/teas/1\",\"status\":\"200\",\"responseTime\":\"0.439\"}","timestamp":"2025-06-30T13:15:20.596Z"}
